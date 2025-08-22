@@ -1,2 +1,2 @@
-# Uber-Booking-Prediction
-This repository hosts a project focused on a systematic comparison of various machine learning models to solve a multi-class classification problem. The task is to predict the final outcome of an Uber booking from a set of five distinct categories: 'Completed', 'Cancelled by Driver', 'Cancelled by Customer', 'No Driver Found', and 'Incomplete'. 
+#Comparative Analysis of Machine Learning for Uber Booking Prediction 🚗
+This repository hosts a project focused on a systematic comparison of various machine learning models to solve a multi-class classification problem. The task is to predict the final outcome of an Uber booking from a set of five distinct categories: 'Completed', 'Cancelled by Driver', 'Cancelled by Customer', 'No Driver Found', and 'Incomplete'. The primary objective is to evaluate the performance, efficiency, and scalability of different algorithms to identify the most suitable approach for this real-world dataset.
